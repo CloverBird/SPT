@@ -1,0 +1,38 @@
+{
+  "scanned_files": 15,
+  "groups": [
+    {
+      "size_bytes": 6756,
+      "saved_if_dedup_bytes": 47292,
+      "files": [
+        "A:/My/University/3course/1semestr/spt/practise3/data/a copy.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/a.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder/a copy.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder/a.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/a copy.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/a.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/folder/a copy.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/folder/a.txt"
+      ]
+    },
+    {
+      "size_bytes": 6745,
+      "saved_if_dedup_bytes": 20235,
+      "files": [
+        "A:/My/University/3course/1semestr/spt/practise3/data/b.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder/b.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/b.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/folder/b.txt"
+      ]
+    },
+    {
+      "size_bytes": 505,
+      "saved_if_dedup_bytes": 1010,
+      "files": [
+        "A:/My/University/3course/1semestr/spt/practise3/data/c.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder/c copy.txt",
+        "A:/My/University/3course/1semestr/spt/practise3/data/folder2/folder/c copy.txt"
+      ]
+    }
+  ]
+}
