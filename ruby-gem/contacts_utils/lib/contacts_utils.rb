@@ -1,0 +1,5 @@
+require_relative "contacts_utils/validation_result"
+require_relative "contacts_utils/email/normalizer"
+require_relative "contacts_utils/email/validator"
+require_relative "contacts_utils/phone/normalizer"
+require_relative "contacts_utils/phone/validator"
